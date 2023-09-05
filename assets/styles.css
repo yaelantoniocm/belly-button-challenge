@@ -1,0 +1,31 @@
+body{
+    background-color: #000000; /* Dark background color */
+}
+
+/* Style for title */
+/* Style for the blue background of the header */
+.col-md-12.jumbotron.text-center {
+    background-color: #3498db; /* Light blue background color */
+    color: #ffffff; /* Color text white to make it readable on the blue background */
+    padding: 20px; /* Inner space for header content */
+}
+
+.panel-heading {
+    background-color: #3498db; /* Light blue background color */
+    color: #ffffff; /* Color text white to make it readable on the blue background */
+    padding: 10px; /* Inner space for header content */
+}
+
+.well {
+    background-color: #0000;
+    color: #ffff;
+}
+
+.test-button {
+    background-color: black;
+    color: white;
+}
+
+.panel-body {
+    background: #0000;
+}
