@@ -33,7 +33,7 @@ Complete the following steps:
 4. Display the sample metadata, i.e., an individual's demographic information.
 
 5. Display each key-value pair from the metadata JSON object somewhere on the page.
- <img width="780" alt="image" src="https://github.com/yaelantoniocm/belly-button-challenge/blob/main/images/hw03.jpg?raw=true">
+ <img width="450" alt="image" src="https://github.com/yaelantoniocm/belly-button-challenge/blob/main/images/hw03.jpg?raw=true">
 
  6. Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown as follows:
 
