@@ -28,7 +28,7 @@ Complete the following steps:
   - Use otu_ids for the marker colors.
 
   - Use otu_labels for the text values.
-<img width="780" alt="image" src="https://github.com/yaelantoniocm/belly-button-challenge/blob/main/images/gauge.jpg?raw=true">
+<img width="780" alt="image" src="https://github.com/yaelantoniocm/belly-button-challenge/blob/main/images/bubble_chart.jpg?raw=true">
 
 4. Display the sample metadata, i.e., an individual's demographic information.
 
